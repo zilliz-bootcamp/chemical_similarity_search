@@ -23,7 +23,7 @@ $ wget https://raw.githubusercontent.com/milvus-io/bootcamp/0.10.0/solutions/mol
 
 #### 1. Run Milvus Docker
 
-This demo uses Milvus 0.10.0 CPU version. Refer to https://milvus.io/cn/docs/v0.10.0/guides/get_started/install_milvus/cpu_milvus_docker.md to learn how to install and run Milvus. 
+This demo uses Milvus 0.10.0 CPU version. Refer to https://milvus.io/cn/docs/v0.10.0/cpu_milvus_docker.md to learn how to install and run Milvus. 
 
 #### 2. Run mols-search-webserver docker
 
